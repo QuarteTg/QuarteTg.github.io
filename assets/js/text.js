@@ -1,6 +1,6 @@
 $(function () {
     $(".typed").typed({
-        strings: ["Крым ничей", "#НетВойне", "ANTI-SCAMMMER", "Python Developer", "coder", "vzlom jopi", "hmmm...", "bruh", "Hack system...", "h@Cк3D!"],
+        strings: ["Quarte", "Hello world!", "Python Developer", "coder", "vzlom jopi", "hmmm...", "bruh", "Hack system...", "h@Cк3D!"],
         typeSpeed: 30,
         backSpeed: 0,
         cursorChar: ['❚'],
