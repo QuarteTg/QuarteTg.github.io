@@ -235,7 +235,7 @@ input[type=button]::-webkit-focus-inner {
 }
 
 .loaderArea {
-  background: linear-gradient(0deg, #7300FF 0%, #00FF8C 100%);
+  background: linear-gradient(0deg, #FF9100 0%, #FFFFFF 100%, #0954EB 0%);
   overflow: hidden;
   position: fixed;
   left: 0;
